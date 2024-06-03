@@ -1,8 +1,8 @@
-import Accordian from "./components/Accordian/Accordian"
-import ImageSlider from "./components/image-slider/ImageSlider"
-import LoadData from "./components/load-more-data/LoadData"
-import RandomColor from "./components/random-color/RandomColor"
-import StarRating from "./components/star-ratings/StarRating"
+import Accordian from "./components/01_Accordian/Accordian"
+import ImageSlider from "./components/04_image-slider/ImageSlider"
+import LoadData from "./components/05_load-more-data/LoadData"
+import RandomColor from "./components/02_random-color/RandomColor"
+import StarRating from "./components/03_star-ratings/StarRating"
 
 
 
