@@ -4,6 +4,8 @@ import LoadData from "./components/05_load-more-data/LoadData"
 import RandomColor from "./components/02_random-color/RandomColor"
 import StarRating from "./components/03_star-ratings/StarRating"
 
+import ModalTest from "./components/10_custom-modal-popup/ModalTest"
+import GitHubProfileFinder from "./components/11_Github_profle-finder/GitHubProfileFinder"
 
 
 function App() {
@@ -17,7 +19,9 @@ function App() {
     url={'https://picsum.photos/v2/list?page=1&limit='}
     limit={'10'}
     /> */}
-    <LoadData/>
+    {/* <LoadData/> */}
+    {/* <ModalTest/>  */}
+    <GitHubProfileFinder/>
     </>
   )
 }
