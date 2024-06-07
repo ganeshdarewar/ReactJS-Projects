@@ -6,6 +6,8 @@ import StarRating from "./components/03_star-ratings/StarRating"
 
 import ModalTest from "./components/10_custom-modal-popup/ModalTest"
 import GitHubProfileFinder from "./components/11_Github_profle-finder/GitHubProfileFinder"
+import SearchAutoComplete from "./components/12_search_auto_complete/SearchAutoComplete"
+import TicTacToe from "./components/13_tic-tac-toe/TicTacToe"
 
 
 function App() {
@@ -21,7 +23,9 @@ function App() {
     /> */}
     {/* <LoadData/> */}
     {/* <ModalTest/>  */}
-    <GitHubProfileFinder/>
+    {/* <GitHubProfileFinder/> */}
+    {/* <SearchAutoComplete/> */}
+    <TicTacToe/>
     </>
   )
 }
